@@ -1,0 +1,24 @@
+{
+    "name": "lotos/repository",
+    "type": "library",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "McLotos",
+            "email": "mclotos@xakep.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lotos\\DI\\Repository\\": "src/",
+            "Lotos\\DI\\Repository\\Exception\\": "src/Exception/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0",
+        "php-ds/php-ds": "^1.4.0",
+        "psr/container": "^2.0.0",
+        "lotos/collection": "^2.0.0"
+    }
+}
