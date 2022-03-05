@@ -6,7 +6,7 @@ namespace LotosTest\DI;
 
 use PHPUnit\Framework\TestCase;
 
-use Lotos\DI\Repository\Entitites\{
+use Lotos\DI\Repository\Entities\{
     MethodInstance,
     ArgumentsCollection,
     ArgumentEntity

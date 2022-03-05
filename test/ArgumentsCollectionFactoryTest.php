@@ -6,7 +6,7 @@ namespace LotosTest\DI;
 
 use PHPUnit\Framework\TestCase;
 use Lotos\DI\Repository\Factories\ArgumentsCollectionFactory;
-use Lotos\DI\Repository\Entitites\ArgumentsCollection;
+use Lotos\DI\Repository\Entities\ArgumentsCollection;
 
 class ArgumentsCollectionFactoryTest extends TestCase
 {

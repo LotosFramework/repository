@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 
 use Lotos\DI\Repository\{
     Factories\RepositoryFactory,
-    Entitites\Repository
+    Entities\Repository
 };
 use Lotos\Collection\CollectionFactory;
 

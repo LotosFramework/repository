@@ -7,7 +7,7 @@ namespace LotosTest\DI;
 use PHPUnit\Framework\TestCase;
 
 use Lotos\DI\Repository\Factories\{MethodFactory, ArgumentsCollectionFactory};
-use Lotos\DI\Repository\Entitites\ArgumentEntity;
+use Lotos\DI\Repository\Entities\ArgumentEntity;
 
 class MethodInstanceTest extends TestCase
 {

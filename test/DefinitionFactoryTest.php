@@ -7,7 +7,7 @@ namespace LotosTest\DI;
 use PHPUnit\Framework\TestCase;
 
 use Lotos\DI\Repository\Factories\DefinitionFactory;
-use Lotos\DI\Repository\Entitites\Definition;
+use Lotos\DI\Repository\Entities\Definition;
 
 use Lotos\Collection\CollectionFactory;
 
