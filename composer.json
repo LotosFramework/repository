@@ -11,6 +11,8 @@
     "autoload": {
         "psr-4": {
             "Lotos\\DI\\Repository\\": "src/",
+            "Lotos\\DI\\Repository\\Entities\\": "src/Entities/",
+            "Lotos\\DI\\Repository\\Factories\\": "src/Factories/",
             "Lotos\\DI\\Repository\\Exception\\": "src/Exception/"
         }
     },
