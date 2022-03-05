@@ -25,7 +25,7 @@ class MethodFactory
      *
      * @method createMethod
      * @param string $method
-     * @param Lotos\DI\Repository\Entitites\ArgumentsCollection $arguments
+     * @param Lotos\DI\Repository\Entities\ArgumentsCollection $arguments
      * @return Lotos\DI\Repository\Entities\MethodInstance
      */
     public static function createMethod(string $method, ArgumentsCollection $arguments) : MethodInstance
